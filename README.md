@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Legend-Harsh
-- 👀 I’m interested in Cybersecurity, Web Development, Software Development.
-- 🌱 I’m currently learning HTML5 and CSS3.
+- 👀 I’m interested in Cybersecurity, Web Development, Ethical Hacking.
+- 🌱 I’m currently learning HTML5 and CSS3, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by My Email id:- hmistry864@gmail.com
 
