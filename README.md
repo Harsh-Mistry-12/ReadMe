@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Legend-Harsh
+- 👋 Hi, I’m @Harsh-Mistry-12
 - 👀 I’m interested in Cybersecurity, Web Development, Ethical Hacking.
 - 🌱 I’m currently learning HTML5 and CSS3, Python.
 - 💞️ I’m looking to collaborate on ...
